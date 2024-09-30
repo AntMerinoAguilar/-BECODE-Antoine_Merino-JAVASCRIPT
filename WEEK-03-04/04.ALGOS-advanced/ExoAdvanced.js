@@ -130,7 +130,7 @@ FizzBuzz(20);*/
     });
 }*/
 
-//---    PAS FINI !!
+//---    PAS FINI !!!
 /*function ransomNote(noteText, magazineText) {
     if (typeof noteText !== "string" || typeof magazineText !== "string") {
         return "Error. Arguments must be string";
