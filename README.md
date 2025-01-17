@@ -10,8 +10,8 @@ Welcome to this repository, which contains my exercises completed as part of the
 
 The repository is organized into folders corresponding to training weeks:
 
-- `WEEK-01b-02`: Introduction to JavaScript, covering the basics such as variables, functions, and control structures.
-- `WEEK-03-04`: Advanced algorithm exercises covering everything already learned.
+- `WEEK-01b-02/`: Introduction to JavaScript, covering the basics such as variables, functions, and control structures.
+- `WEEK-03-04/`: Advanced algorithm exercises covering everything already learned.
 
 ## Topics Covered 📚
 
